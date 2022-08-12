@@ -1,5 +1,6 @@
 package practiceproramms;
 class gas{
+	
 	public void liquidgas(){
 		System.out.println("i am from liquidgas method & from gas class");
 	}
@@ -8,7 +9,16 @@ class lpg extends gas{
 	public void lqiuidgas2() {
 		System.out.println(" i am from liquidgas2 method & from lpg classs");
 	}
+	
+	
+	
+	
+	
 }
+
+
+
+
 
 public class herrarchie extends gas {
 	public void liquidgas3() {

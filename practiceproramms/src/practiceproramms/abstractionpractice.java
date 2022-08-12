@@ -10,6 +10,8 @@ abstract class firstprogramm{
 	public abstract void hide();
 }
 
+
+
 public class abstractionpractice extends firstprogramm{
 	public void display() {
 		System.out.println("i am from display method & normal class");
