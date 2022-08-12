@@ -9,6 +9,8 @@ class tata{
 	public void display0() {
 		System.out.println(" i am from class tata & display0 method");
 	}
+	
+	
 }
 interface fourwheeler{
 	public void display();

@@ -7,6 +7,8 @@ interface animal{
 	public void display();//one method
 	//public static void print();//whenver the method becomes static or default then it rerquires method body will be there
 	public void print();
+	
+	
 }
 //now i am creating multiple interface will be here
 //so i am create another interface and implements those interface in to the main class
@@ -22,7 +24,7 @@ public class interface_beforejava8 implements animal,jungle {
 		obj.display();
 		obj.display1();
 		obj.print();
-		obj.print1();
+		obj.print1();;
 		
 		// TODO Auto-generated method stub
 
